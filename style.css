@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-transform: capitalize;
+    font-size: 3rem;
+}
+
+.poster {
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    font-family: 'Afacad', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#image {
+   border: 5px solid white;
+   width: 75%;
+}
